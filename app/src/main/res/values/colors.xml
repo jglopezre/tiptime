@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--Own Colors -->
+    <color name="orange">#ffb74d</color>
+    <color name="orange_dark">#c88719</color>
+    <color name="orange_light">#ffe97d</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_dark">#b0003a</color>
+    <color name="pink_light">#ff6090</color>
+
 </resources>
